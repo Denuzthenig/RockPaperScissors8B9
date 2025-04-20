@@ -8,3 +8,4 @@ Scissors wins against Paper.
 There are 10 rounds. If you win more that 5 rounds you win the game. Otherwise you loose.
 Here is the github link - https://github.com/Denuzthenig/RockPaperScissors8B9
 ![alt text](image-1.png)
+Here is a replit link - https://replit.com/@DenizGyogebakan/RockPaperScissorsGame
